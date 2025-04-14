@@ -1,0 +1,24 @@
+- type: gameMapPool
+  id: OwlStation
+  maps:
+  - Amber
+  - Atlas
+  - Bagel
+  - Box
+  - Convex
+  - Core
+  - Cluster
+  - Elkridge
+  - Fland
+  - Gate
+  - Loop
+  - Marathon
+  - Meta
+  - Oasis
+  - Omega
+  - Packed
+  - Plasma
+  - Reach
+  - Relic
+  - Saltern
+  - Train
