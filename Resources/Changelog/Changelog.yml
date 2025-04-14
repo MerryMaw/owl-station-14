@@ -1,20 +1,4 @@
 ﻿Entries:
-- author: keronshb
-  changes:
-  - message: Adds Wand of the Locker - a wand that shoots out cursed lockers, that
-      will store anyone they touch!
-    type: Add
-  id: 7677
-  time: '2024-12-04T16:49:54.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/33710
-- author: PJB3005
-  changes:
-  - message: Vox now have natural poison regeneration, allowing them to go for ~30
-      seconds in oxygen and heal the damage away.
-    type: Tweak
-  id: 7678
-  time: '2024-12-05T21:17:27.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/33722
 - author: IProduceWidgets
   changes:
   - message: N2 survival boxes now show the right tank icon.
@@ -3899,3 +3883,17 @@
   id: 8176
   time: '2025-04-14T15:27:26.0000000+00:00'
   url: https://github.com/space-wizards/space-station-14/pull/35580
+- author: benev0
+  changes:
+  - message: Stopped climbing movent while in containers
+    type: Fix
+  id: 8177
+  time: '2025-04-14T15:56:14.0000000+00:00'
+  url: https://github.com/space-wizards/space-station-14/pull/32033
+- author: SlamBamActionman
+  changes:
+  - message: Hyposprays now shows contained chemicals in the sprite.
+    type: Tweak
+  id: 8178
+  time: '2025-04-14T15:58:55.0000000+00:00'
+  url: https://github.com/space-wizards/space-station-14/pull/30703
